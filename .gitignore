@@ -3,3 +3,7 @@ obj/
 *.cbp
 *.depend
 *.layout
+
+.idea/
+cmake-build-debug
+CMakeLists.txt
