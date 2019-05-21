@@ -4,6 +4,7 @@ obj/
 *.depend
 *.layout
 
+*.iml
 .idea/
 cmake-build-debug/
 CMakeLists.txt
